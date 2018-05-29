@@ -4,7 +4,7 @@
 
 ### Preparation
 
-#### Deploy labs {need list of labs to deploy}
+#### Deploy labs {need list of labs to deploy - ask Steven}
 
 ### Key Take-Aways {need to improve SWBATs}
 * Students get a basic understanding of git
