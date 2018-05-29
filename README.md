@@ -2,7 +2,11 @@
 
 * Introduce HTML and git and then build up an HTML project
 
-### Key Take-Aways
+### Preparation
+
+#### Deploy labs {need list of labs to deploy}
+
+### Key Take-Aways {need to improve SWBATs}
 * Students get a basic understanding of git
 * Purpose of version control
 * Adding remotes in git
